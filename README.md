@@ -1,4 +1,6 @@
-# my-project
+# Simple Calculator App
+
+# Check out Live App @ https://infallible-saha-bd44ef.netlify.com/
 
 ## Project setup
 ```
@@ -27,3 +29,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
